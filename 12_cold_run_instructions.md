@@ -4,15 +4,15 @@ No third-party Python packages are required.
 
 ## Repository and project path
 
-- Repository: `https://github.com/Ethan-Todd/HD.git`
+- Repository: `https://github.com/Ethan-Todd/Project-1-HD.git`
 - Current working source: `/Users/ethantodd/Documents/Codex/2026-08-25/op/FIN 439/home_depot_project_1_rebuild`
 - Project path after the clone command below: `HD` (the repository root)
 
 ## Reproduce from a fresh clone
 
 ```bash
-git clone --branch main --single-branch https://github.com/Ethan-Todd/HD.git HD
-cd HD
+git clone --branch main --single-branch https://github.com/Ethan-Todd/Project-1-HD.git Project-1-HD
+cd Project-1-HD
 git rev-parse HEAD
 python3 -m venv .venv
 ./.venv/bin/python --version
@@ -42,7 +42,7 @@ Before running, show that the clone contains at least:
 - `edition_a_unchanged.md`;
 - `00_architecture_audit.md` through `20_partner_challenge_status.md`, including the visible output and working validation records.
 
-Verification on October 19, 2026 found that GitHub `main` was still at `dcc900b366f9e7d200e37d96cca31403cee2ecc4` and contained only the older course files. It did **not** contain the rebuild README, requirements file, or required scripts. Do not record the cold run or use that remote commit as submission evidence. First commit the complete rebuild, publish it at the repository root, clone it again, and confirm the inventory above.
+This standalone repository contains only the Project 1 rebuild rather than older unrelated course files. An unrecorded clean-clone verification may establish reproducibility, but it does **not** replace the assignment's recorded cold run; record the final remote `git rev-parse HEAD` shown when you perform it.
 
 ## Cold-run recording checklist — not yet completed
 
