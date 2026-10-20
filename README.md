@@ -58,6 +58,8 @@ That script refreshes `05_part3_visible_output.txt`, so the dated inputs and res
 | `21_edition_a_provenance.md` | Earliest-file, hash and Git audit distinguishing unchanged preservation from unverified Edition A originality |
 | `Project_1_Decision_Memo_HD.pdf` | Official two-page investment-committee memo |
 | `22_decision_memo_verification.md` | Memo rendering, number, source-reference and validation reconciliation |
+| `23_erp_evidence.md` | Frozen official September 1 ERP workbook/page evidence, hashes, cell locators and remaining WACC limitations |
+| `source_evidence/` | Official Damodaran page and monthly ERP workbook downloaded October 19, 2026 |
 | `Research-Evolution.pdf` | Final seven-page research-evolution artifact; includes verbatim Edition A, separate provenance qualification and final Edition B |
 | `Validation-and-AI-Use.pdf` | Final five-page assembled validation artifact; incomplete evidence is explicitly identified |
 | `create_submission_pdfs.py` | Reproducible standard-library-plus-ReportLab PDF assembly source |

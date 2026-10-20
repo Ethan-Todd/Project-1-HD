@@ -15,7 +15,7 @@ This is the working Markdown evidence register. The assembled submission artifac
 
 ## Data and convention ledger
 
-The complete load-bearing ledger is `04_part3_assumption_challenge_record.md`. Source accessibility and definition checks are in `13_source_consistency_audit.md`. The official September 1 ERP observation is now directly cited. Unresolved beta, marginal debt cost/tax, exact dilution, excess cash, operating-lease rollforward, the ERP-source/model risk-free-rate convention difference, and exchange-quality price evidence remain visible.
+The complete load-bearing ledger is `04_part3_assumption_challenge_record.md`. Source accessibility and definition checks are in `13_source_consistency_audit.md`. The official September 1 ERP observation is cited and preserved in `source_evidence/`, with hashes and cell-level detail in `23_erp_evidence.md`. Unresolved beta, marginal debt cost/tax, exact dilution, excess cash, operating-lease rollforward, the ERP-source/model risk-free-rate convention difference, and exchange-quality price evidence remain visible.
 
 ## Validation register
 
@@ -59,7 +59,7 @@ Full detail is in `11_ai_output_check.md`. Before freezing the PDF, confirm the 
 ## Not complete
 
 - recorded cold run and Video 2 demonstration;
-- frozen capture of the directly cited dated ERP statement and exchange-quality prices;
+- exchange-quality September 1 price evidence;
 - independent timestamp/transcript for the recalled partner challenge, if the course requires contemporaneous proof;
 - verified Edition A Brightspace receipt or other contemporaneous submission evidence;
 - Videos 1–3, transcripts, recorded cold run and final repository/access checks.
