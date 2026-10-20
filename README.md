@@ -64,6 +64,9 @@ That script refreshes `05_part3_visible_output.txt`, so the dated inputs and res
 | `Validation-and-AI-Use.pdf` | Final five-page assembled validation artifact; incomplete evidence is explicitly identified |
 | `create_submission_pdfs.py` | Reproducible standard-library-plus-ReportLab PDF assembly source |
 | `requirements.txt` | Standard-library-only environment declaration |
+| `transcript-video-1.txt` | User-supplied Video 1 transcript; recording comparison remains pending |
+| `transcript-video-2.txt` | User-supplied Video 2 transcript; recording comparison remains pending |
+| `transcript-video-3.txt` | User-supplied Video 3 transcript; recording comparison remains pending |
 
 ## Part 1 versus Part 2
 

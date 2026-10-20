@@ -1,0 +1,25 @@
+Video 3
+
+My recommendation is watch/defer. I am asking the committee to keep Home Depot on the watchlist without initiating a position at the September 1, 2026 price of $319.77.
+
+My operating scenarios value Home Depot between approximately $221 and $254 per share, with a base case of $234. Even the upside case is about 21 percent below the market price.
+
+The comparable-company references are approximately $240 using P/E and $217 using EV-to-EBITDA. I use these as cross-checks rather than averaging them with the DCF because they rely on different assumptions and a limited peer group.
+
+The reverse DCF shows what growth would be needed to support the market price under my other assumptions. It requires annual revenue growth of roughly 9.7 percent initially and 8.7 percent afterward.
+
+That is above my supported forecast. This test also holds capital spending fixed, which makes the growth requirement more favorable than it would be if investment increased with revenue.
+
+The main valuation risks are WACC and terminal growth. WACC remains provisional, and approximately 77 percent of enterprise value comes from terminal value.
+
+Lowering terminal growth from 2.5 percent to 1.5 percent reduced value from $234 to about $199. That reinforces the need to present a range rather than treat the base case as certain.
+
+Business risks include weaker remodeling demand, margin pressure, and disappointing acquisition integration.
+
+I would reconsider initiation if a refreshed valuation showed sufficient upside relative to the price, supported by stronger evidence and better-supported WACC inputs. A lower price alone would not be enough if business performance were deteriorating.
+
+I would move toward do-not-initiate if demand, margins, or acquisition performance weakened enough to undermine the investment case.
+
+I will monitor comparable sales, transactions, margins, acquisition contributions, inventory, and capital spending.
+
+My committee ask is to keep Home Depot on the watchlist, approve those monitoring conditions, and require updated valuation evidence before any purchase.

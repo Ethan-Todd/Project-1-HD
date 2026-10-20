@@ -1,0 +1,23 @@
+Video 1
+
+My project asks whether a fund with no current position should invest in Home Depot, using September 1, 2026 as the valuation date.
+
+In my preserved initial version, I recommended watch/defer. Home Depot was profitable and had significant scale, but I was concerned about acquisition-driven sales growth, declining margins, and debt. I still needed to determine whether the company’s cash flows justified its share price.
+
+The provenance note explains the limitations of the preserved initial record.
+
+In Edition B, I developed that initial view into a five-year financial forecast connected to an FCFF discounted-cash-flow model.
+
+My operating scenarios produce a range of approximately $221 to $254 per share, with a base value of $234. That compares with the September 1 market price of about $320. The comparable-company references also fall below that price.
+
+My recommendation stayed watch/defer, but the reasoning became more concrete. Under my assumptions, the operating outlook does not support buying at the market price. Stronger operating results would trigger a new valuation, rather than automatically justify an investment.
+
+One AI-assisted output I checked was the original DCF’s debt adjustment.
+
+The model subtracted $51.308 billion of debt. Comparing that input with Home Depot’s balance sheet and Note 5 showed that it covered long-term debt, including current installments, but omitted another $4.464 billion of commercial paper.
+
+Using the original share count, that omission alone overstated equity value by about $4.49 per share. The corrected model includes commercial paper, and the final valuation uses the later debt information available by the valuation date.
+
+This check mattered because the original code could run and still produce a misleading result. I needed to verify what the debt number included, not simply trust the output.
+
+AI helped organize research and build the model, but I remained responsible for checking the evidence and interpreting the results. WACC still contains provisional inputs, and roughly 77 percent of enterprise value comes from terminal value. Those limitations are why my conclusion is a conditional valuation range and a watch/defer recommendation.

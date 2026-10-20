@@ -1,0 +1,11 @@
+Video 2
+
+This model forecasts Home Depot’s financial statements for five years. It calculates free cash flow to the firm, discounts it at WACC, and adds terminal value. It then adds excess cash, subtracts debt, and divides by diluted shares to estimate value per share.
+
+I’ll now run the model. Its validation checks cover the historical figures, balance sheets, cash flows, and enterprise-to-equity bridge.
+
+The displayed checks passed. That supports the calculations, although the assumptions still require judgment.
+
+Terminal value represents about 77 percent of enterprise value, so this is a high-risk assumption. I’ll set terminal growth equal to WACC. The model should reject this because the terminal-value formula would divide by zero.
+
+The model rejected the invalid assumption as expected. This prevents it from reporting a misleading valuation. My final recommendation remains watch/defer, with the uncertainty in WACC and terminal growth clearly disclosed.
