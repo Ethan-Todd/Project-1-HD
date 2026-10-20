@@ -26,7 +26,7 @@ Corrected transcript filename: `transcript-video-2.txt`.
 
 ## Video 3 — Committee defense (target 4:30)
 
-Project 1 requires the live product/model demonstration to be the main delivery; do not substitute a prerecorded tour or read the memo.
+**Source qualification:** the shared submission architecture says that “Project 1 requires a live product demonstration as the video's main delivery,” but it also says that requirement appears in Project 1's own brief. No separate Project 1 brief containing that instruction was found in the available course files or supplied assignment text. Therefore, treat the live-demonstration requirement as **unverified for this project** until confirmed in Brightspace or by the instructor. Showing the model remains a suggested presentation method, not a verified requirement.
 
 - **0:00–0:25:** Lead with **watch/defer at $319.77**, committee holds no position.
 - **0:25–1:20:** Live-show the current output: $220.99–$253.91 operating range and $234.00 base.
