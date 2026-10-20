@@ -14,6 +14,8 @@ Corrected transcript filename: `transcript-video-1.txt`.
 
 ## Video 2 — Code and validation walkthrough (target 4:35)
 
+**Cold-run qualification:** Video 2 is explicitly required to explain reproducibility and demonstrate a high-risk validation test. The Project 1 assignment separately requires a recorded clean end-to-end fresh-environment run, but the available checklist does not explicitly place that full recording inside Video 2 and has no separate fourth-video row. The timing below uses a concise reproducibility demonstration; confirm where the complete cold-run recording must be submitted.
+
 - **0:00–0:35:** Show repository commit, Python version, standard-library-only setup, and commands.
 - **0:35–1:30:** Explain data flow: reported FY2025 → linked statements → signed FCFF → WACC DCF → enterprise-to-equity bridge.
 - **1:30–2:15:** Open key functions/schedules and explain debt, finance-lease, cash, share, and terminal conventions.

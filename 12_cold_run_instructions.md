@@ -46,6 +46,8 @@ This standalone repository contains only the Project 1 rebuild rather than older
 
 ## Cold-run recording checklist — not yet completed
 
+**Placement qualification:** the Project 1 assignment language supplied by the student explicitly requires one clean end-to-end fresh-environment run to be recorded. The available shared checklist does not specify whether the complete recording must be embedded in Video 2 or retained as separate validation evidence. It provides no fourth-video manifest row; the validation template includes reproducibility/cold-run evidence, while Video 2 must show how to reproduce output and demonstrate a high-risk test. Confirm the required submission location in Brightspace or with the instructor. Until then, do not claim that a separate fourth video is required or that the entire run must fit inside Video 2.
+
 - [ ] Start recording before opening the repository.
 - [ ] Show the repository URL/commit and an actually fresh clone or clean environment.
 - [ ] Show `python3 --version`; record operating system and architecture.

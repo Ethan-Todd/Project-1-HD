@@ -71,7 +71,7 @@ Expected answers: Year 1–5 FCFF **108.000000, 114.480000, 120.204000, 125.0121
 | Highest-risk failure test | model/Part 3 terminal boundary, debt, sign and monotonicity tests | Code complete; **Video 2 demonstration incomplete** |
 | Actual AI output independently checked | `11_ai_output_check.md` | Complete working record; frozen PDF/video still incomplete |
 | Fresh-environment instructions | `12_cold_run_instructions.md`; `requirements.txt` | Prepared |
-| Recorded cold run | No recording yet | **Incomplete** |
+| Recorded fresh-environment cold run | Project 1 assignment language supplied by the student requires “one clean end-to-end run in a fresh environment, recorded”; `12_cold_run_instructions.md` is prepared | **Incomplete. Packaging is unverified:** the shared manifest has no fourth-video row; the validation template requires cold-run evidence; Video 2 requires reproduction/high-risk validation but does not explicitly say the full cold run must be inside it. Confirm Brightspace/instructor placement before recording |
 | Visible executed output | `05_part3_visible_output.txt`; `14_training_benchmark_output.txt` | Complete |
 | README/repository map and run commands | `README.md` | Complete working version |
 | Research-Evolution PDF | `edition_a_unchanged.md`; `16_edition_b_draft.md` | Draft components prepared; **PDF incomplete/not frozen** |
