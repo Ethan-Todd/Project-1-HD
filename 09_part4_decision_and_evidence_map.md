@@ -41,7 +41,7 @@ Expected answers: Year 1–5 FCFF **108.000000, 114.480000, 120.204000, 125.0121
 |---|---|---|
 | Decision user, no-position action, target/security | `README.md`; this file | Complete |
 | Horizon, valuation date, currency, diluted-share basis, exclusions | `README.md`; `03_valuation_basis.md` | Complete; exact dilution remains provisional |
-| Unchanged Edition A | `edition_a_unchanged.md`; matching SHA-1 recorded in work log | File preserved; **Brightspace receipt still required** |
+| Edition A provenance | `edition_a_unchanged.md`; `21_edition_a_provenance.md`; earliest available Sep. 1 filesystem copy | Byte-identical and unchanged since preservation; **official originality/submission baseline unverified because no Brightspace receipt or contemporaneous Git record was found** |
 | Edition B and A-to-B evidence table | `16_edition_b_draft.md` | Working draft complete; **not frozen** |
 | FY2025 reported base reconciles to filing | `01_base_year_reconciliation.md`; `home_depot_fcff_model.py` | Complete mechanically; 10-K date corrected to Mar. 18 |
 | Facts, normalizations, forecasts, outputs distinguished | `04_part3_assumption_challenge_record.md` | Complete structure; unresolved items remain labelled |

@@ -37,6 +37,10 @@ The complete load-bearing ledger is `04_part3_assumption_challenge_record.md`. S
 
 The completed record is `08_locked_changed_input_record.md`. It contains the exact human sentence, pre-run timestamp/commit, 2.5% → 1.5% annual terminal-growth change, fixed inputs, actual −$34.62/−14.80% result, validation, mismatch diagnosis and unchanged watch/defer action. `10_locked_changed_input_blank.md` is an unused blank AI-off template and is not evidence of another completed test.
 
+## Edition A provenance qualification
+
+`21_edition_a_provenance.md` documents that `edition_a_unchanged.md` is byte-identical to the earliest available September 1 filesystem copy and has not changed since Git preservation. That evidence does not verify that it was the original supervised or Brightspace-submitted Edition A. No receipt or contemporaneous Git history was found, so originality/submission status remains unresolved and no retrospective baseline is claimed.
+
 ## Named AI-use register
 
 | Tool/model surface | Date | Material task/output | Independent check | Disposition | Decision effect |
@@ -58,6 +62,7 @@ Full detail is in `11_ai_output_check.md`. Before freezing the PDF, confirm the 
 - frozen Validation-and-AI-Use PDF;
 - frozen capture of the directly cited dated ERP statement and exchange-quality prices;
 - credited partner challenge record;
+- verified Edition A Brightspace receipt or other contemporaneous submission evidence;
 - Edition B and Research-Evolution PDF;
 - memo/deck, Videos 1–3, transcripts, manifest and access checks.
 

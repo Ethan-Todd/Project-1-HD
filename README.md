@@ -55,6 +55,7 @@ That script refreshes `05_part3_visible_output.txt`, so the dated inputs and res
 | `18_video_outlines.md` | Three distinct bounded video plans and transcript rules |
 | `19_submission_manifest.csv` | Twelve-row checklist manifest with incomplete items marked |
 | `20_partner_challenge_status.md` | Separate honest record that credited partner evidence remains incomplete |
+| `21_edition_a_provenance.md` | Earliest-file, hash and Git audit distinguishing unchanged preservation from unverified Edition A originality |
 | `requirements.txt` | Standard-library-only environment declaration |
 
 ## Part 1 versus Part 2
