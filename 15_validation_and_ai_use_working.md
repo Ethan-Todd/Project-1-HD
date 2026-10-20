@@ -1,6 +1,6 @@
 # Validation and AI Use — Working Record
 
-This is the working Markdown source, not the final frozen submission PDF.
+This is the working Markdown evidence register. The assembled submission artifact is `Validation-and-AI-Use.pdf`; unresolved evidence remains unresolved in that PDF.
 
 ## Decision, version and boundary
 
@@ -59,11 +59,9 @@ Full detail is in `11_ai_output_check.md`. Before freezing the PDF, confirm the 
 ## Not complete
 
 - recorded cold run and Video 2 demonstration;
-- frozen Validation-and-AI-Use PDF;
 - frozen capture of the directly cited dated ERP statement and exchange-quality prices;
 - independent timestamp/transcript for the recalled partner challenge, if the course requires contemporaneous proof;
 - verified Edition A Brightspace receipt or other contemporaneous submission evidence;
-- Edition B and Research-Evolution PDF;
-- memo/deck, Videos 1–3, transcripts, manifest and access checks.
+- Videos 1–3, transcripts, recorded cold run and final repository/access checks.
 
 Educational AI finance class work; not professional financial advice.

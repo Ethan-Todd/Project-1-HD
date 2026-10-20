@@ -69,13 +69,13 @@ Expected answers: Year 1–5 FCFF **108.000000, 114.480000, 120.204000, 125.0121
 | Credited partner challenge | `20_partner_challenge_status.md`; model and locked-test reconciliation | Documented from student recollection and credited to Jack Schlueter; claim numerically supported; no independent timestamp/transcript, and preserved Edition A remains unchanged |
 | Blank procedure for another changed-input test | `10_locked_changed_input_blank.md` | Prepared; intentionally blank |
 | Highest-risk failure test | model/Part 3 terminal boundary, debt, sign and monotonicity tests | Code complete; **Video 2 demonstration incomplete** |
-| Actual AI output independently checked | `11_ai_output_check.md` | Complete working record; frozen PDF/video still incomplete |
+| Actual AI output independently checked | `11_ai_output_check.md`; `Validation-and-AI-Use.pdf` | Complete record assembled in the inspected PDF; video remains incomplete |
 | Fresh-environment instructions | `12_cold_run_instructions.md`; `requirements.txt` | Prepared |
 | Recorded fresh-environment cold run | Project 1 assignment language supplied by the student requires “one clean end-to-end run in a fresh environment, recorded”; `12_cold_run_instructions.md` is prepared | **Incomplete. Packaging is unverified:** the shared manifest has no fourth-video row; the validation template requires cold-run evidence; Video 2 requires reproduction/high-risk validation but does not explicitly say the full cold run must be inside it. Confirm Brightspace/instructor placement before recording |
 | Visible executed output | `05_part3_visible_output.txt`; `14_training_benchmark_output.txt` | Complete |
 | README/repository map and run commands | `README.md` | Complete working version |
-| Research-Evolution PDF | `edition_a_unchanged.md`; `16_edition_b_draft.md` | Draft components prepared; **PDF incomplete/not frozen** |
-| Validation-and-AI-Use frozen PDF | Markdown records only | **Incomplete** |
+| Research-Evolution PDF | `Research-Evolution.pdf`; `edition_a_unchanged.md`; `21_edition_a_provenance.md` | **Complete artifact:** seven pages visually inspected; official Edition A originality/submission remains explicitly unverified |
+| Validation-and-AI-Use PDF | `Validation-and-AI-Use.pdf`; `15_validation_and_ai_use_working.md` | **Complete assembled artifact:** five pages visually inspected; the required recorded cold run and other missing evidence remain clearly incomplete |
 | Decision memo/deck | `Project_1_Decision_Memo_HD.pdf`; `22_decision_memo_verification.md` | Official two-page memo present; model numbers and source references checked; final cross-artifact/access check remains |
 | Videos 1–3 and corrected transcripts | `18_video_outlines.md` | Outlines prepared; **recordings/transcripts incomplete** |
 | Brightspace manifest, URLs, access check | `19_submission_manifest.csv` | Twelve rows prepared; **URLs/access/frozen IDs incomplete** |
@@ -88,7 +88,7 @@ Expected answers: Year 1–5 FCFF **108.000000, 114.480000, 120.204000, 125.0121
 | Data integrity and traceability | files `01`, `03`, `04`, `07`, `13` | WACC proxies, price-source quality, dilution/excess cash |
 | Financial soundness and judgment | model, files `05`, `07`, this file | provisional WACC and narrow peers |
 | Technical execution and usability | three Python scripts, visible outputs, README | actual fresh-environment cold run |
-| Validation, sensitivity, reproducibility | files `08`, `10`, `11`, `12`, `14` | frozen validation PDF and recorded demonstration |
+| Validation, sensitivity, reproducibility | files `08`, `10`, `11`, `12`, `14`; `Validation-and-AI-Use.pdf` | recorded fresh-environment demonstration and recording reference |
 | Professional communication | organized Markdown, visible results, working memo/video plans | frozen memo, recordings, corrected transcripts, completed manifest |
 
 Educational AI finance class work; not professional financial advice.

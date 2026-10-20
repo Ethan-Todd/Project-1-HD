@@ -58,6 +58,9 @@ That script refreshes `05_part3_visible_output.txt`, so the dated inputs and res
 | `21_edition_a_provenance.md` | Earliest-file, hash and Git audit distinguishing unchanged preservation from unverified Edition A originality |
 | `Project_1_Decision_Memo_HD.pdf` | Official two-page investment-committee memo |
 | `22_decision_memo_verification.md` | Memo rendering, number, source-reference and validation reconciliation |
+| `Research-Evolution.pdf` | Final seven-page research-evolution artifact; includes verbatim Edition A, separate provenance qualification and final Edition B |
+| `Validation-and-AI-Use.pdf` | Final five-page assembled validation artifact; incomplete evidence is explicitly identified |
+| `create_submission_pdfs.py` | Reproducible standard-library-plus-ReportLab PDF assembly source |
 | `requirements.txt` | Standard-library-only environment declaration |
 
 ## Part 1 versus Part 2
