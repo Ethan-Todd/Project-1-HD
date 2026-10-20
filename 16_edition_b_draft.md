@@ -26,7 +26,7 @@ The base FCFF/WACC DCF is **$234.00** per diluted share. Separate market referen
 | Assumption | WACC and forecast not yet established | 8.1984% provisional WACC; causal operating cases; 2.5% terminal growth | Own judgment supported by sourced facts and unresolved proxies | WACC build, assumption-challenge record, sensitivities |
 | Risk/uncertainty | Organic demand, margins, acquisition integration and debt | Same risks quantified; added terminal-value concentration, exact dilution, excess cash, beta/debt-cost, lease and peer limitations | Own analysis and independent checks | Downside case, 76.57% terminal share, source audit |
 | AI output | No completed tested AI-output record in Edition A | Tractor Supply peer suggestion **qualified**, not accepted as a close peer | AI plus independent check | SEC product-mix evidence in `11_ai_output_check.md` |
-| Partner challenge | Placeholder remains in preserved Edition A | Jack Schlueter challenged the 76.57% terminal-value concentration on October 13; the student accepted it after reconciling the locked 14.80% decline | Partner challenge plus own model check | `20_partner_challenge_status.md`; student recollection is credited but has no independent timestamp/transcript |
+| Partner challenge | Placeholder remains in preserved Edition A | Jack Schlueter challenged the 76.57% terminal-value concentration on October 13, 2026; the student accepted it after reconciling the locked 14.80% decline | Partner challenge plus own model check | `20_partner_challenge_status.md`; student recollection is credited but has no independent timestamp/transcript |
 
 ## Decision conditions
 

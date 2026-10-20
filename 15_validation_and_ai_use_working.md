@@ -31,7 +31,7 @@ The complete load-bearing ledger is `04_part3_assumption_challenge_record.md`. S
 | Terminal-growth prediction magnitude | Human expected ~3% decline | Compare exact base/changed values | Actual −14.80%; direction right, magnitude wrong | Correct interpretation | `08_locked_changed_input_record.md` |
 | AI peer suggestion | Industry label hides economic mismatch | Check TSCO product mix in SEC filing | TSCO materially rural/consumable | Qualify, not close peer | `11_ai_output_check.md` |
 | Reproducibility | Works only in development environment | Recorded clean clone and three-script run | Not performed | **Incomplete** | `12_cold_run_instructions.md` |
-| Credited partner challenge | Recollection is overstated as contemporaneous proof | Credit partner, preserve student-reported wording, and reconcile the numerical claim | Jack Schlueter's October 13 terminal-value challenge is supported by the 76.57% terminal share and the locked 14.80% changed-input result | **Accept substance; qualify provenance because no independent timestamp/transcript was supplied** | `20_partner_challenge_status.md`; `08_locked_changed_input_record.md` |
+| Credited partner challenge | Recollection is overstated as contemporaneous proof | Credit partner, preserve student-reported wording, and reconcile the numerical claim | Jack Schlueter's October 13, 2026 terminal-value challenge is supported by the 76.57% terminal share and the locked 14.80% changed-input result | **Accept substance; qualify provenance because no independent timestamp/transcript was supplied** | `20_partner_challenge_status.md`; `08_locked_changed_input_record.md` |
 
 ## Locked Changed-Input Record
 
