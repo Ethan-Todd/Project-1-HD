@@ -76,7 +76,7 @@ Expected answers: Year 1–5 FCFF **108.000000, 114.480000, 120.204000, 125.0121
 | README/repository map and run commands | `README.md` | Complete working version |
 | Research-Evolution PDF | `edition_a_unchanged.md`; `16_edition_b_draft.md` | Draft components prepared; **PDF incomplete/not frozen** |
 | Validation-and-AI-Use frozen PDF | Markdown records only | **Incomplete** |
-| Decision memo/deck | `17_decision_memo_draft.md` | Working draft prepared; **PDF incomplete/not frozen** |
+| Decision memo/deck | `Project_1_Decision_Memo_HD.pdf`; `22_decision_memo_verification.md` | Official two-page memo present; model numbers and source references checked; final cross-artifact/access check remains |
 | Videos 1–3 and corrected transcripts | `18_video_outlines.md` | Outlines prepared; **recordings/transcripts incomplete** |
 | Brightspace manifest, URLs, access check | `19_submission_manifest.csv` | Twelve rows prepared; **URLs/access/frozen IDs incomplete** |
 
