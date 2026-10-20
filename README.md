@@ -67,6 +67,9 @@ That script refreshes `05_part3_visible_output.txt`, so the dated inputs and res
 | `transcript-video-1.txt` | User-supplied Video 1 transcript; recording comparison remains pending |
 | `transcript-video-2.txt` | User-supplied Video 2 transcript; recording comparison remains pending |
 | `transcript-video-3.txt` | User-supplied Video 3 transcript; recording comparison remains pending |
+| `Decision-Memo.pdf` | Exact checklist-named copy of the verified two-page committee memo |
+| `docs/` | Content-equivalent repository copies required by the shared submission architecture |
+| `24_final_submission_status.md` | Exact upload/link requirements, packaged items, and incomplete evidence checklist |
 
 ## Part 1 versus Part 2
 

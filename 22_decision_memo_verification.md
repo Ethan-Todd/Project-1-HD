@@ -33,6 +33,6 @@ The training benchmark, historical reconciliation, forecast balance, cash tie, s
 - Treasury 4.79% and Damodaran ERP 4.14% match the dated WACC record.
 - Lowe's and Tractor Supply references match `07_comparable_valuation.md`.
 - The memo correctly discloses that beta, marginal debt cost/tax, exact dilution, excess cash, operating-lease treatment, and exchange-quality price evidence remain provisional or unresolved.
-- `Validation-and-AI-Use.pdf` is named as the final validation artifact, but that PDF must still be frozen from the working record before submission.
+- `Validation-and-AI-Use.pdf` is the assembled frozen-format validation artifact. It continues to disclose incomplete recorded cold-run evidence and other unresolved items rather than marking them complete.
 
 This check confirms consistency with the current project; it does not convert disclosed proxies into independently resolved facts.
