@@ -66,7 +66,7 @@ Expected answers: Year 1–5 FCFF **108.000000, 114.480000, 120.204000, 125.0121
 | Published known-answer reconciliation | `benchmark_validation.py`; `14_training_benchmark_output.txt` | Complete: all twelve outputs pass |
 | Independent load-bearing source/definition check | `11_ai_output_check.md`; `13_source_consistency_audit.md` | Complete for peer qualification and debt/lease definitions |
 | Human AI-off changed-input prediction and precommit | `08_locked_changed_input_record.md`; commit `46e3d77…` | Complete for terminal-growth test |
-| Credited partner challenge | `20_partner_challenge_status.md`; placeholder in preserved Edition A | **Incomplete; no challenge or credit invented** |
+| Credited partner challenge | `20_partner_challenge_status.md`; model and locked-test reconciliation | Documented from student recollection and credited to Jack Schlueter; claim numerically supported; no independent timestamp/transcript, and preserved Edition A remains unchanged |
 | Blank procedure for another changed-input test | `10_locked_changed_input_blank.md` | Prepared; intentionally blank |
 | Highest-risk failure test | model/Part 3 terminal boundary, debt, sign and monotonicity tests | Code complete; **Video 2 demonstration incomplete** |
 | Actual AI output independently checked | `11_ai_output_check.md` | Complete working record; frozen PDF/video still incomplete |

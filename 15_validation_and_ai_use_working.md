@@ -31,7 +31,7 @@ The complete load-bearing ledger is `04_part3_assumption_challenge_record.md`. S
 | Terminal-growth prediction magnitude | Human expected ~3% decline | Compare exact base/changed values | Actual −14.80%; direction right, magnitude wrong | Correct interpretation | `08_locked_changed_input_record.md` |
 | AI peer suggestion | Industry label hides economic mismatch | Check TSCO product mix in SEC filing | TSCO materially rural/consumable | Qualify, not close peer | `11_ai_output_check.md` |
 | Reproducibility | Works only in development environment | Recorded clean clone and three-script run | Not performed | **Incomplete** | `12_cold_run_instructions.md` |
-| Credited partner challenge | AI or author invents peer feedback | Preserve the partner's exact question, identity/credit, response and disposition | Edition A still contains a placeholder; no separate completed record located | **Incomplete—do not claim credit** | `edition_a_unchanged.md` |
+| Credited partner challenge | Recollection is overstated as contemporaneous proof | Credit partner, preserve student-reported wording, and reconcile the numerical claim | Jack Schlueter's October 13 terminal-value challenge is supported by the 76.57% terminal share and the locked 14.80% changed-input result | **Accept substance; qualify provenance because no independent timestamp/transcript was supplied** | `20_partner_challenge_status.md`; `08_locked_changed_input_record.md` |
 
 ## Locked Changed-Input Record
 
@@ -61,7 +61,7 @@ Full detail is in `11_ai_output_check.md`. Before freezing the PDF, confirm the 
 - recorded cold run and Video 2 demonstration;
 - frozen Validation-and-AI-Use PDF;
 - frozen capture of the directly cited dated ERP statement and exchange-quality prices;
-- credited partner challenge record;
+- independent timestamp/transcript for the recalled partner challenge, if the course requires contemporaneous proof;
 - verified Edition A Brightspace receipt or other contemporaneous submission evidence;
 - Edition B and Research-Evolution PDF;
 - memo/deck, Videos 1–3, transcripts, manifest and access checks.
